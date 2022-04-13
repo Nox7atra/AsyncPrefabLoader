@@ -5,4 +5,4 @@
 
 Так как в главном потоке нельзя использовать Unity вызовы, то это именно сделано асинхронно в главном потоке. Команду LoadPrefabCommand можно расширить на нужный дополнительный функционал.
 
-Пример использования https://github.com/Nox7atra/AsyncPrefabLoader/blob/master/Assets/AsyncPrefabsLoader/Demo/DemoCommandGenerator.cs
+Пример использования: https://github.com/Nox7atra/AsyncPrefabLoader/blob/master/Assets/AsyncPrefabsLoader/Demo/DemoCommandGenerator.cs
